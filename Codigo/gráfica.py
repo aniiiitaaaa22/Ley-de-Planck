@@ -1,7 +1,4 @@
-""" -Statistical Mechanics LAB
-Q.Plot Planck’s law for Black Body radiation and compare it with Raleigh-Jeans Law at high
-  temperature and low temperature.
- """
+
 import numpy as np  
 from scipy.constants import h, c, k, pi  
 import matplotlib.pyplot as plt
